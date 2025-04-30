@@ -8,7 +8,7 @@
 - 
 ## Hi there 👋
 - 👨‍💻 I'm a web developer who values maintainability and efficient design.
-- 📡 Personal server for hosting my projects: https://favau.kro.kr/
+- 📡 Personal server for hosting my projects: ~~https://favau.kro.kr/~~
 - 🎷🎸 Hobbies: Playing saxophone and bass guitar
 
 ## 🗺️ 2025 Roadmap
@@ -20,6 +20,8 @@
 - [ ] Prepare for DASP (Data Analytics Semi-Professional)
 - [ ] Prepare for ASDP (Advanced Software Developer Professional)
 - [ ] Learn Next.js and its ecosystem (routing, SSR, SSG, API routes)
+- [ ] Get hands-on experience with JPA.
+- [ ] Develop and deploy a toy project.
 
 ## ✅ What I accomplished in 2024
 - [x] Build CI/CD pipeline using Jenkins & Docker
