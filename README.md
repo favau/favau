@@ -1,12 +1,4 @@
 ## Hi there 👋
-
-- 👨‍💻 I'm a web developer who values maintainability and efficient design.
-- 🔧 I enjoy refactoring, simplifying logic, and keeping things clean.
-- 🌱 Currently focused on improving backend knowledge, system architecture, and database management.
-- 🛠️ Tech Stack: Java, Spring, React, MySQL, Docker, Nginx
-- 📡 Personal server for hosting my projects: [https://favau.kro.kr/](https://favau.kro.kr/)
-- 
-## Hi there 👋
 - 👨‍💻 I'm a web developer who values maintainability and efficient design.
 - 📡 Personal server for hosting my projects: ~~https://favau.kro.kr/~~
 - 🎷🎸 Hobbies: Playing saxophone and bass guitar
