@@ -12,7 +12,7 @@
 - 🎷🎸 Hobbies: Playing saxophone and bass guitar
 
 ## 🗺️ 2025 Roadmap
-- [~] Docker
+- [ ] Docker
 - [ ] GitHub workflow and best practices
 - [ ] Spring Security and JWT authentication
 - [ ] Study for SQLD (SQL Developer Certificate)
