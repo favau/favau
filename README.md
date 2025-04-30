@@ -1,4 +1,3 @@
-## Hi there 👋
 - 👨‍💻 I'm a web developer who values maintainability and efficient design.
 - 📡 Personal server for hosting my projects: ~~https://favau.kro.kr/~~
 - 🎷🎸 Hobbies: Playing saxophone and bass guitar
