@@ -3,10 +3,10 @@
 - 🎷🎸 Hobbies: Playing saxophone and bass guitar
 
 ## 🗺️ 2025 Roadmap
-- [ ] Docker
+- [x] Docker
 - [ ] GitHub workflow and best practices
-- [ ] Spring Security and JWT authentication
-- [ ] Study for SQLD (SQL Developer Certificate)
+- [x] Spring Security and JWT authentication
+- [x] Study for SQLD (SQL Developer Certificate)
 - [ ] Prepare for 정보처리기사 (Engineer Information Processing Certificate)
 - [ ] Prepare for DASP (Data Analytics Semi-Professional)
 - [ ] Prepare for ASDP (Advanced Software Developer Professional)
